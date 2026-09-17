@@ -1,0 +1,12 @@
+**/node_modules/
+**/dist/
+**/.expo/
+**/web-build/
+**/.env
+**/.env.local
+**/*.tsbuildinfo
+server/prisma/*.db
+server/prisma/*.db-journal
+.idea/
+.DS_Store
+
